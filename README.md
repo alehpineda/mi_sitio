@@ -6,8 +6,5 @@ Mi sitio demo
 ### Cambios desde solo un demo
 
 ## Proposito de este archivo
+Solo un archivo Readme
 
-Solo es un archivo readme que va a causar conflictos.
-Aqui
-y aqui
-y aqui tambien.
