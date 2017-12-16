@@ -8,3 +8,7 @@ Mi sitio demo
 ## Proposito de este archivo
 Solo un archivo Readme
 
+# Proposito
+
+El proposito de este curso es mostrar como funciona Git y Github.
+Y utilizarlos en conjunto.
