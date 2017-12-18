@@ -12,3 +12,7 @@ Solo un archivo Readme
 
 El proposito de este curso es mostrar como funciona Git y Github.
 Y utilizarlos en conjunto.
+
+# Getting Started
+
+Asi puedes iniciar tu proyecto.
